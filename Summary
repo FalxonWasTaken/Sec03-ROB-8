@@ -1,0 +1,19 @@
+Summary​
+
+- Included a library to enable IR remote functionality.​
+
+- Assigned descriptive variable names to Arduino digital pins for clearer, more readable code.​
+
+- Mapped variables to specific IR remote signals for each button press.​
+
+- Used variable definitions to improve code clarity and understanding.​
+
+- Created global structures and initialized global variables for consistent program-wide access.​
+
+- Wrote helper functions to simplify the creation and readability of later functions.​
+
+- Developed motor-control functions to operate individual motors.​
+
+- Built higher-level movement functions that coordinate both motors to control the car’s motion.​
+
+- Implemented functions to control LED headlights and turn-signal behavior.
