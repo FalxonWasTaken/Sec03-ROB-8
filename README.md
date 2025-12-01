@@ -1,4 +1,4 @@
-Welcome to the central page for group 8's ENGR 1000 final project.
+opWelcome to the central page for group 8's ENGR 1000 final project.
 
 In this repository you can find:
 - Full code running on the robot
@@ -28,6 +28,7 @@ b. Participate in a line following competition at the end of semester against ot
 c. A poster that highlights your progress and final design
 
 Goals:
+
 Speed: There will be a competition at the end of the project to see whose robot can follow the line fastest
 Aesthetics: Modify the robot design to make it more aesthetically appealing
 Budget: Groups cannot go over a certain price point to modify their robot. ($28 for the base robot kit, about $2 to $5 for additional IR sensors;
