@@ -1,4 +1,4 @@
-opWelcome to the central page for group 8's ENGR 1000 final project.
+Welcome to the central page for group 8's ENGR 1000 final project.
 
 In this repository you can find:
 - Full code running on the robot
