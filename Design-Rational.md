@@ -13,7 +13,7 @@ accurate digital representation of the car which could be used for further modif
 <img width="1441" height="927" alt="image" src="https://github.com/user-attachments/assets/45beb24a-93b4-4cdf-84d3-4cf9d1f80f57" />
 
 __________________________
-Bettle Shell:
+Beetle Shell:
 
 We then moved to finding a model of a Volkswagen bettle, making the determination that it would be easier to shift around and modify components of the car as opposed to customizing the difficult to 
 modify mesh (.stl, .obj) files that we could find models of the Beetle in. After importing, processing, and scaling the shell of the car, we put the both the shell and the digital model of the unmodified
@@ -35,6 +35,13 @@ could be further modified if need be. They were also digitally color codded to a
 
 <img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/26074e3a-d347-4dbe-ad1e-a0a010e093c8" />
 
+____________________
+Wheel Modification:
+
+In addition to overhauling the baseplate, we also created custom wheels to improve performance and stability of the car. The original wheels, while having decent traction, were very stiff and did a poor job disapating potential shocks or terrain the car might encounter (at this point, we did not know what kind of path our car would be required to traverse). A helical rib design was chosen for its weight and shock performance, and Polyflex TPU 95A polymer was chosen as the material to allow for passive absorbsion and more gentle transfer of forces. The CAD model of said wheels currently on the car can be seen below.
+
+<img width="1126" height="1090" alt="image" src="https://github.com/user-attachments/assets/01bb4517-450b-4724-859d-2ddc22dde352" />
+
 __________________
 Final Assembly:
 
@@ -44,7 +51,7 @@ tested to ensure functionality. The block CAD model of the new component placeme
 <img width="1688" height="971" alt="image" src="https://github.com/user-attachments/assets/7fa6d497-071e-4a48-9877-70c7b6b7f1ef" />
 
 Soon after the final model of the beetle shell was also completed and sent to production, also in black recycled PLA. Later on, it would be spray painted into the bright yellow seen on our finished
-project. Interference, mounting, and structure were accounted for and a consideration when adding the shell to the baseplate in CAD before it was manufactured and integratd.
+project. Interference, mounting, and structure were accounted for and a consideration when adding the shell to the baseplate in CAD before it was manufactured and integratd. Additional consideration was given to adding holes for light to pass through, as we also integrated and soldered a turn signal LED array which would later be mounted to the shell.
 
 <img width="1521" height="1224" alt="image" src="https://github.com/user-attachments/assets/deba1e21-74ce-42b9-97a4-795ceec5d217" />
 
