@@ -27,7 +27,7 @@ Baseplate Modifications:
 After investigating the relationship between the car kit and our Beetle shell, we began the process of modifying the baseplate and shifting components around to better fit our shell. As can be seen
 below, the design underwent several iterations and tests.
 
-<IMAGE>
+![IMG_3834](https://github.com/user-attachments/assets/2b02dd03-7ce7-4e32-a74b-cd30d7847b3c)
 
 The final design of the baseplate, pictured below, encorporats all original components and electronics required for the car kit in a custom orientation. The baseplate was also analyized and lightened
 for weight optimization, as weight was a future concern when adding a complete Beetle shell on to the vehicle. For the purposes of the CAD design, all holes were easily chained together in a sketch and
